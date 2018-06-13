@@ -1,3 +1,4 @@
 [submodule "isysd"]
 	path = isysd
+	branch = isysd
 	url = git@bitbucket.org:isysd/dotfiles-isysd.git
