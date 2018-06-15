@@ -1,3 +1,9 @@
 [submodule "isysd"]
 	path = isysd
 	url = git@bitbucket.org:isysd/dotfiles-isysd.git
+[submodule "tigoctm"]
+	path = tigoctm
+	url = git@bitbucket.org:tigoctm/dotfiles-tigoctm.git
+[submodule "derekshalom"]
+	path = derekshalom
+	url = git@bitbucket.org:derekshalom/dotfiles-derekshalom.git
