@@ -1,0 +1,8 @@
+[user]
+	username = felixrabe
+	name = Felix Rabe
+	website = http://rabe.io/
+[commit]
+	gpgsign = true
+[aliases]
+	github = felixrabe

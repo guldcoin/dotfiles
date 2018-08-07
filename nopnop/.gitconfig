@@ -1,0 +1,9 @@
+[user]
+	username = nopnop
+	name = Jean Ponchon
+	location = France
+	website = http://www.novadiscovery.com
+[commit]
+	gpgsign = true
+[aliases]
+	github = nopnop
