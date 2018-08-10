@@ -6500,3 +6500,6 @@
 [submodule "philfog"]
 	path = philfog
 	url = https://github.com/isysd/dotfiles-philfog.git
+[submodule "lewi"]
+	path = lewi
+	url = https://github.com/Lewi507/dotfiles-lewi.git
