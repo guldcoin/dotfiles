@@ -6503,3 +6503,6 @@
 [submodule "lewi"]
 	path = lewi
 	url = https://github.com/Lewi507/dotfiles-lewi.git
+[submodule "dice"]
+	path = dice
+	url = https://github.com/BCoronas/dotfiles-dice.git
