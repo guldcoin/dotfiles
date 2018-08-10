@@ -3718,7 +3718,7 @@
 	url = https://github.com/jorge-farias/dotfiles-jorge-farias.git
 [submodule "jamesbong"]
 	path = jamesbong
-	url = https://github.com/isysd/dotfiles-jamesbong.git
+	url = https://github.com/riomyers/dotfiles-jamesbong.git
 [submodule "jacob-keller"]
 	path = jacob-keller
 	url = https://github.com/isysd/dotfiles-jacob-keller.git
