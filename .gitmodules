@@ -4891,7 +4891,7 @@
 	url = https://github.com/isysd/dotfiles-olivia.git
 [submodule "fdreyfus"]
 	path = fdreyfus
-	url = https://github.com/isysd/dotfiles-fdreyfus.git
+	url = https://github.com/ferdreyfus/dotfiles-fdreyfus.git
 [submodule "rnbwd"]
 	path = rnbwd
 	url = https://github.com/isysd/dotfiles-rnbwd.git
