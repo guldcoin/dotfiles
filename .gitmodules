@@ -4316,9 +4316,6 @@
 [submodule "jamescarr"]
 	path = jamescarr
 	url = https://github.com/isysd/dotfiles-jamescarr.git
-[submodule "astoker"]
-	path = astoker
-	url = https://github.com/isysd/dotfiles-astoker.git
 [submodule "supergibbs"]
 	path = supergibbs
 	url = https://github.com/isysd/dotfiles-supergibbs.git
