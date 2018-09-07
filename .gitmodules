@@ -6503,3 +6503,15 @@
 [submodule "dice"]
 	path = dice
 	url = https://github.com/BCoronas/dotfiles-dice.git
+[submodule "pepita"]
+	path = pepita
+	url = https://bitbucket.org/guld/dotfiles-pepita.git
+[submodule "edwardgray"]
+	path = edwardgray
+	url = https://bitbucket.org/guld/dotfiles-edwardgray.git
+[submodule "melmanci"]
+	path = melmanci
+	url = https://bitbucket.org/guld/dotfiles-melmanci.git
+[submodule "garrett-keirns"]
+	path = garrett-keirns
+	url = https://bitbucket.org/guld/dotfiles-garrett-keirns.git
