@@ -4807,7 +4807,7 @@
 	url = https://github.com/isysd/dotfiles-xhmikosr.git
 [submodule "tbm"]
 	path = tbm
-	url = https://github.com/isysd/dotfiles-tbm.git
+	url = https://bitbucket.org/guld/dotfiles-tbm.git
 [submodule "flichtenheld"]
 	path = flichtenheld
 	url = https://github.com/isysd/dotfiles-flichtenheld.git
@@ -6515,3 +6515,6 @@
 [submodule "garrett-keirns"]
 	path = garrett-keirns
 	url = https://bitbucket.org/guld/dotfiles-garrett-keirns.git
+[submodule "amohedanos"]
+	path = amohedanos
+	url = git@bitbucket.org:guld/dotfiles-amohedanos.git
