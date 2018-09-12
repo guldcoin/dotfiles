@@ -6518,3 +6518,6 @@
 [submodule "amohedanos"]
 	path = amohedanos
 	url = git@bitbucket.org:guld/dotfiles-amohedanos.git
+[submodule "lucerogray94"]
+	path = lucerogray94
+	url = https://bitbucket.org/guld/dotfiles-lucerogray94.git
